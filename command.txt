@@ -1,0 +1,13 @@
+git status    => for checking present status of git reposatory
+
+git init      => for start/initialise folder as git reposatory
+
+git add --a   => for adding all items in git folder to staging area
+
+git add filename =>for adding only filename in git folder to staging area
+
+git commit -m  => for cummiting all staging files to git with a message 
+
+git log        => see all the commits made till now
+
+git diff       => see the differnce in staging area file and modified same file

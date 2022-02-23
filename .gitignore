@@ -1,3 +1,4 @@
 *.log
 /dir/       ***for specifically for only outer file/folder***
 dir/ 	    ***for all files/folders name dir***
+myxl.xlsx

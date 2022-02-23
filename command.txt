@@ -1,3 +1,7 @@
+git  config --global user.name  "Name"      ***Adding user in git repo***
+
+git config --global user.email "@email"     ***Adding email in git repo***
+
 git status    => for checking present status of git reposatory
 
 git init      => for start/initialise folder as git reposatory
@@ -10,4 +14,8 @@ git commit -m  => for cummiting all staging files to git with a message
 
 git log        => see all the commits made till now
 
-git diff       => see the differnce in staging area file and modified same file
+git diff       => Compare the differnce in staging area files and modified files
+
+git diff --staged => compare the difference in staging area and last Commit
+
+git comit -a -m    => skip the staging area direct comit files ** only tracked files

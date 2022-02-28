@@ -18,4 +18,4 @@ git diff       => Compare the differnce in staging area files and modified files
 
 git diff --staged => compare the difference in staging area and last Commit
 
-git comit -a -m    => skip the staging area direct comit files ** only tracked files
+git commit -a -m    => skip the staging area direct comit files ** only tracked files
